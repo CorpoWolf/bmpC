@@ -1,0 +1,4 @@
+- printf("hex: %x\n", a); // x = hex
+- printf("decimal: %d\n", a); // d = decimal
+- printf("char: %c\n", a); // c = char
+- printf("octal: %o\n", a); // o = octal
